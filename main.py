@@ -7,7 +7,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.page_link("pages/app_multiply.py", label="Squared root calculator")
 with col2:
-    st.page_link("pages/app_2.py", label="None")
+    st.page_link("pages/app_beam_forces.py", label="Beam forces calculator")
 st.markdown("---")
 st.subheader("🔗 Stay Connected")
 st.markdown(
